@@ -17,9 +17,10 @@ English is in below
 * 基本無料です（有料サービスは、主催者のライセンスで提供します）
 * Windows, MacOSのデスクトップアプリケーションのほか、スマホ・タブレットのアプリでも利用できます
 * 画面の共有やチャットも使用できます
-* アカウント無しでもゲストとして利用できますが、さまざまな機能を利用するためにアカウントを作成されることを推奨します。
+* アカウント無しでもゲストとして利用できますが、さまざまな機能を利用するためにアカウントを作成されることを推奨します
 * [公式チュートリアル](https://support.zoom.us/hc/ja/articles/206618765-Zoom-Video-Tutorials)
 * [初心者向けガイド（例）](https://zoom-shukyaku.com/zoom-%E4%BD%BF%E3%81%84%E6%96%B9/)
+* ワークショップ参加者向けZoom利用のガイドと注意事項は[こちら]()
 
 #### Slack (https://slack.com/intl/ja-jp/)
 * Slackはグループチャットとダイレクトメッセージ(DM)を中心とするグループ・コミュニケーションのためのソフトウェア・サービスです
@@ -61,6 +62,7 @@ English is in below
 * You can be a guest without an account, but it is recommended to create your own personal account and sign-in for participating the workshop.
 * [official tutorial]()
 * [beginner's guide (example)]()
+* Quick guide and notification for workshop participants is available [here]()
 
 ### Slack (https://slack.com/intl/ja-jp/)
 * Slack is a software service for group communication with a focus on group chat and direct message.
