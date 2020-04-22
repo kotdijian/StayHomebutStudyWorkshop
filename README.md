@@ -5,6 +5,9 @@ Main repositry of online workshop series for #StayHomebutStudy. For specific wor
 #### organizers: Atsushi Noguchi, Ben Marwick, Christian Hoggard, Yuichi Takata (as well as collaborators and supporters)
 #### オーガナイザー：野口　淳、ベン・マーウィック、クリスチャン・ホガード、高田祐一（および協力者・支援してくださるみなさま）
 
+#### General framework and components (全体構成）
+[GMM.md](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/GMM.md)
+
 #### GMMworkshop1
 25April2020 (and to be reiterated later) by Christian Hoggard ->[here](https://github.com/CSHoggard/-workshopjapan2020)
 
