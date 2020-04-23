@@ -35,15 +35,27 @@ English is in [below](#StayHomebutStudy-online-workshop)
 * Slack利用のガイドは[こちら]()
 
 #### GitHub (https://github.com/)
-* GitHub
+* GitHubは、Gitと呼ばれる「プログラムのソースコードなどの変更履歴を記録・追跡するための分散型バージョン管理システム」のひとつで、ソフトウェア開発などに利用されるほか、データや文書を含めた共有・共同編集にも利用されます
+* 基本無料です（無料サービスの範囲で利用します）
+* 使用方法の詳細は別途ワークショップを開催します
+* 当面はクラウド・ストレージ的なものとして利用してください
+* リポジトリの作成やコピー（クローン）、共同編集に参加するためにはアカウントを作成しサインインする必要があります（当面は必要ではありませんが作成しておくと便利です）
+* [#StayHomebutStudyオンラインワークショップのリポジトリ](https://github.com/kotdijian/StayHomebutStudyWorkshop)
+* [GMMワークショップのリポジトリ](https://github.com/CSHoggard/-workshopjapan2020)
+
+#### Googleドキュメント (https://www.google.com/docs/about/)
+* Googleドキュメント（Google DocsまたはAndroidアプリでは「ドキュメント」）は、ウェブブラウザまたはアプリ上で文書の作成・編集が行なえるソフトウェア・サービスです
+* クラウド（GoogleDrive）を通じて共同作業を行なうことができます
+* 無料です
+* ウェブブラウザで使用できるほか、Windows, MacOSのデスクトップアプリケーション、スマホ・タブレットのアプリでも利用できます
+* 共同作業を行なうためにはGoogleアカウントでサインインする必要があります
+*[[GMMonlineWorkshopフォルダ](https://drive.google.com/drive/folders/1CkzyBVZug3IuX9eirO98fFeobSKFaefs?usp=sharing)
+
 
 #### R (https://www.r-project.org/)とRStudio (https://rstudio.com/)
 * R
 * RStudio
 * R, RStudioのインストールガイドは[こちら]()
-
-#### GoogleDocs (https://www.google.com/docs/about/)
-* GoogleDocsまたはドキュメントApp
 
 ***
 # StayHomebutStudy online workshop
