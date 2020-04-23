@@ -12,7 +12,7 @@ English is in [below](#StayHomebutStudy-online-workshop)
 * 進捗の確認、質疑応答はZoom, Slackで行ないます
 
 ## 使用するソフト・サービス
-#### Zoom (https://zoom.us/)
+#### Zoom (https://zoom.us/) 
 * Zoomは音声・ビデオ通話ベースのウェブ会議サービスです
 * 基本無料です（有料サービスは、主催者のライセンスで提供します）
 * Windows, MacOSのデスクトップアプリケーションのほか、スマホ・タブレットのアプリでも利用できます
@@ -32,11 +32,18 @@ English is in [below](#StayHomebutStudy-online-workshop)
 
 > **他のアプリ・サービスとの連携** ZoomやGitHub, GoogleDrive（後述）などリンクを、チャンネル、メッセージのやり取りの中に組み込める
 > アプリの追加・連携設定は各自で行なってください。[公式解説はこちら](https://slack.com/intl/ja-jp/help/articles/202035138-%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B)  
+* Slack利用のガイドは[こちら]()
 
 #### GitHub (https://github.com/)
 * GitHub
 
+#### R (https://www.r-project.org/)とRStudio (https://rstudio.com/)
+* R
+* RStudio
+* R, RStudioのインストールガイドは[こちら]()
+
 #### GoogleDocs (https://www.google.com/docs/about/)
+* GoogleDocsまたはドキュメントApp
 
 ***
 # StayHomebutStudy online workshop
@@ -73,8 +80,11 @@ English is in [below](#StayHomebutStudy-online-workshop)
 > **Channel for each topic** For avoiding too quick message flow due to large number of participants or posts in non-threading, which causes difficulty for proper communication.
 > **Connectivity and intergration with other apps and services** Integration with Zoom, GitHub, and GoogleDocs in channels and messages.
 > Please add applications, set integration and give authorities by yourself. [see official commentary here] ()
+* Participants' guide for Slakc is available [here]()
 
 #### GitHub (https://github.com/)
 * GitHub
+
+#### R (https://www.r-project.org/) and RStudio (https://rstudio.com/)
 
 #### GoogleDocs (https://www.google.com/docs/about/)
