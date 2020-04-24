@@ -31,12 +31,13 @@
 4.  **【重要】**オーガナイザーが承認するとミーティングルームに入れます。オーガナイザーはPeatixとSlackの登録名を確認して承認するので、Zoomのアカウント名を、Peatix, Slackと一致させてください
     * Zoomでアカウント名を設定・変更する方法
     1. 設定をクリック（またはZoomウェブサイトからサインイン）
-
+![ZoomSetting](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/ZoomMeetingImages/ZoomSetting.png)
     2. プロフィール→「編集」をクリック
-
+![ZoomProfileSetting1](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/ZoomMeetingImages/ZoomProfileSettings.png)
     3. 姓名を入力・変更（プロフィール画像も変更できます）
-
+![ZoomProfileSetting2](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/ZoomMeetingImages/ZoomProfileSetting2.png)
     4. ミーティング画面からも変更可能
+![ZoomProfileSetting3](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/ZoomMeetingImages/ZoomProfileSetting3.png)
 
     * **海外からの講師・参加者のためにローマ字表記に変更しましょう（Slackも）**
 ***
@@ -53,7 +54,7 @@
 4. ただしZoomチャットはひとつのチャンネルしかありません。参加者全員が投稿を重ねるとメッセージが流れてしまうため、質問や討論には不向きです。このためSlackを併用します
 
 5. チャットの代わりに有効なのがリアクション（「非言語的フィードバック」）です（使い方は[こちら](https://zoom-support.nissho-ele.co.jp/hc/ja/articles/360025314131-%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E4%B8%AD%E3%81%AE%E9%9D%9E%E8%A8%80%E8%AA%9E%E7%9A%84%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF)）
-
+![ZoomReaction](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/ZoomMeetingImages/ZoomReaction.png)
     * **ワークショップ中、確認のためにこの機能を使用します**
     * 進行が速すぎる! とか、ちょっと休憩!!の時にも使用できます
  
