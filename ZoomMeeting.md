@@ -12,7 +12,11 @@
 2. オンライン・ワークショップ全体に共通する情報は、#instruction、#GMM_workshopに投稿されます
 3. こちらも参照：
 [1.GoogleDocs](https://drive.google.com/open?id=11itoIMYyO4X3WCQe33NdGczug-YEack4DiN9javjH60)
+![GoogleDocs](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/ZoomMeetingImages/StayHomeStudy.png)
+
 [2. GitHub](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/GMM.md)
+![GitHub](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/ZoomMeetingImages/GitHubRepositry.png)
+
 ***
 ###### 2
 ### **2. Zoomミーティングに参加しよう**
