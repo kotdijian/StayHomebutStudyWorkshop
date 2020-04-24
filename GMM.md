@@ -49,8 +49,6 @@ English is in [below](#StayHomebutStudy-online-workshop)
 * 無料です
 * ウェブブラウザで使用できるほか、Windows, MacOSのデスクトップアプリケーション、スマホ・タブレットのアプリでも利用できます
 * 共同作業を行なうためにはGoogleアカウントでサインインする必要があります
-*[[GMMonlineWorkshopフォルダ](https://drive.google.com/drive/folders/1CkzyBVZug3IuX9eirO98fFeobSKFaefs?usp=sharing)
-
 
 #### R (https://www.r-project.org/)とRStudio (https://rstudio.com/)
 * R
