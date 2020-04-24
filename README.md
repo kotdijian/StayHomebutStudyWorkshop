@@ -8,6 +8,7 @@ Main repositry of online workshop series for #StayHomebutStudy. For specific wor
 
 #### General framework and components (全体構成）
 Jump to （こちら）[GMM.md](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/GMM.md)
+Instruction for Zoom meeting&Slack／Zoomミーティング・Slackの使用方法は[ZoomMeeting](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/ZoomMeeting.md)
 ***
 
 #### GMMworkshop1
