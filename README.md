@@ -20,3 +20,6 @@ Instruction for Zoom meeting&Slack／Zoomミーティング・Slackの使用方�
 #### GMMworkshop2
 to be announced
 詳細は後ほど
+
+* ** 第2回ワークショップではR/RStudioを使用します。インストールガイドは[こちら](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/InstallR-Rstudio.md)**    
+* 資料は[こちら](https://github.com/CSHoggard/-workshopjapan2020)
