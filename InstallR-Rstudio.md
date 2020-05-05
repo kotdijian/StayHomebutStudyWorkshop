@@ -1,3 +1,5 @@
+<!-- R/ RStudioインストールガイド（日本語）-->
+<!-- Install guide for R/ RStudio (Japanese)-->
 ## R/ RStudioをインストールしよう
 **目次**    
 [1. Rをインストールしよう](#1)    
