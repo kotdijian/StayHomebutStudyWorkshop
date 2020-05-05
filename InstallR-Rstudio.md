@@ -14,7 +14,7 @@ Rは、統計解析向けのプログラミング言語、実行環境です。�
 * さまざまな目的・用途に即したパッケージが開発・公開されているため、プログラミングについて習熟していなくても、多くの統計解析を実行することができます
 * きれいなグラフなどを作成するパッケージもあり、分析から図表作成までカバーできます    
 
-1. Rのインストールは[こちら](https://www.r-project.org/)から 
+1. Rのインストールは[こちら](https://www.r-project.org/)から    
 ![Rinstlation01](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/R01.png)
 2. ご使用のOSを選択します
 ![Rinstlation02](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/R02.png)
@@ -56,17 +56,17 @@ RStudioは、Rの統合開発環境です。オープンソースです。Rの�
 ###### 3
 ### **3. ワークショップ資料をダウンロードしよう**
 ワークショップの資料（Rのコードと解説）は、**RMarkdown(.Rmd)** という形式で提供されます。
-* Rマークダウンて何だろう？ >Rは統計解析向けのプログラミング言語
-* 文書も作成できたら便利じゃない？ >マークダウン形式の文書を扱えるようにしよう
-* (ちなみにこのページもマークダウン形式で書かれています）
+1. Rマークダウンて何だろう？
+* Rは統計解析向けのプログラミング言語 > 文書も作成できたら便利じゃない？
+* >マークダウン形式の文書を扱えるようにしよう (ちなみにこのページもマークダウン形式で書かれています）
 * Rマークダウンでは、文章とRの実行コードを一緒に扱えます
 ![Rmd01](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd01.png)
     * RStudioで表示すると、文章部分と、Rの実行コード部分（コードチャンク）が区別されています
     * コードチャンクは背景がグレー、コードを実行するボタンが表示されます（赤丸）
 ![Rmd02](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd02.png)
-    * コードを実行すると、結果が表示されます
-![Rmd03](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd03.png)
-    * Rマークダウン文書全体を、HTML、PDF、.docxなどに書き出すことができます(knit)
+    * コードを実行すると、結果が表示されます    
+![Rmd03](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd03.png)    
+    * Rマークダウン文書全体を、HTML、PDF、.docxなどに書き出すことができます(knit)    
     * **HTML, PDF, .docx** ファイルもリポジトリにあります
 
 1. ワークショップ資料のダウンロード
