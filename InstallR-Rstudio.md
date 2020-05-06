@@ -107,8 +107,8 @@ RとRStudioをインストールしたら、インストールが問題なくで
 ### **4. ワークショップ資料をダウンロードしよう**
 ワークショップの資料（Rのコードと解説）は、**RMarkdown(.Rmd)** という形式で提供されます。
 1. Rマークダウンて何だろう？
-* Rは統計解析向けのプログラミング言語 > 文書も作成できたら便利じゃない？
-* >マークダウン形式の文書を扱えるようにしよう (ちなみにこのページもマークダウン形式で書かれています）
+* Rは統計解析向けのプログラミング言語 ＞文書も作成できたら便利じゃない？
+* ＞マークダウン形式の文書を扱えるようにしよう (ちなみにこのページもマークダウン形式で書かれています）
 * Rマークダウンでは、文章とRの実行コードを一緒に扱えます
 ![Rmd01](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd01.png)
     * RStudioで表示すると、文章部分と、Rの実行コード部分（コードチャンク）が区別されています
@@ -134,7 +134,6 @@ RとRStudioをインストールしたら、インストールが問題なくで
 ![Rmd05](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/RStudio05.png)    
 ![Rmd06](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/RStudio06.png)    
     * gmm-markdown.Rmdというタブが開き、資料の内容が表示されます
-    * **初めて開いた時にはPackageの不足についての警告が上部に表示されますが、ワークショップ中にインストールの手順が示されます。気にしないでください**    
 
 3. ワークショップ資料を印刷する・文書として閲覧する
 * GitHubリポジトリのworkshop02フォルダ内には、.Rmdと同じ内容のHTML, PDF文書も公開されています
