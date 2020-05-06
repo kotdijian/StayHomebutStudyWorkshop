@@ -1,6 +1,6 @@
 <!-- R/ RStudioインストールガイド（日本語）-->
 <!-- Install guide for R/ RStudio (Japanese)-->
-## R/ RStudioをインストールしよう、ワークショップ参加の準備を使用
+## R/ RStudioをインストールしよう、ワークショップ参加の準備をしよう
 **目次**    
 0. とくにWindowsユーザーのための注意事項    
 [1. Rをインストールしよう](#1)    
@@ -135,7 +135,13 @@ RとRStudioをインストールしたら、インストールが問題なくで
 ![Rmd06](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/RStudio06.png)    
     * gmm-markdown.Rmdというタブが開き、資料の内容が表示されます
 
-3. ワークショップ資料を印刷する・文書として閲覧する
+3. ワークショップ資料の確認
+* ソース・ペイン右上の「Run」をクリック→「Run all」を選択すると、資料中のすべてのコードチャンクが実行されます    
+    ![Rmd07](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd06.png)    
+* ソースの意味、実行結果はワークショップで詳しく説明します。ここではエラーメッセージが出ずに最後まで実行できるかだけを確認してください
+* エラーが出た場合は、エラーメッセージの内容をメモし、またはスクリーンショットで記録し、Slackの「質問」チャンネルまで!!
+
+4. ワークショップ資料を印刷する・文書として閲覧する
 * GitHubリポジトリのworkshop02フォルダ内には、.Rmdと同じ内容のHTML, PDF文書も公開されています
 * これらは、インターネットブラウザ、PDFリーダーなどで表示し、印刷することができます
 * Rマークダウンは文章と実行可能なコードを併記することを主眼としたものです。人間が見て読みやすいものではありません
