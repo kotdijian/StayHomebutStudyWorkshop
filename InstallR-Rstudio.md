@@ -81,9 +81,9 @@ RStudioは、Rの統合開発環境です。オープンソースです。Rの�
 2. ワークショップ資料のRStudioへの読み込み
 * RStudioを起動します
 * File→Open File→資料を保存したフォルダから、gmm-markdown.Rmdを開きます    
-![Rmd05](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd05.png)    
-![Rmd06](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd06.png)    
-![Rmd07](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd07.png)    
+![Rmd05](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/RStudio05.png)    
+![Rmd06](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/RStudio06.png)    
+![Rmd07](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/RStudio07.png)    
     * gmm-markdown.Rmdというタブが開き、資料の内容が表示されます
     * **初めて開いた時にはPackageの不足についての警告が上部に表示されますが、ワークショップ中にインストールの手順が示されます。気にしないでください**    
 
