@@ -76,5 +76,22 @@ RStudioは、Rの統合開発環境です。オープンソースです。Rの�
     * .zipフォルダを解凍、"workshop02"フォルダ内の"gmm-markdown.Rmd"ファイルをRStudioで開くと準備完了です
     * **【重要】リポジトリ内のgmm-markdown.Rmdをダイレクトに保存(Windowsの場合:右クリック→名前を付けてリンク先を保存)では正しくダウンロードできません**    
     ![Rmd05](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd05.png)
-* GitHubをすでに使い慣れている人は、各自のリポジトリにクローンしてください
+* GitHubをすでに使い慣れている人は、各自のリポジトリにクローンしてください    
+
+2. ワークショップ資料のRStudioへの読み込み
+* RStudioを起動します
+* File→Open File→資料を保存したフォルダから、gmm-markdown.Rmdを開きます    
+![Rmd05](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd05.png)    
+![Rmd06](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd06.png)    
+![Rmd07](https://github.com/kotdijian/StayHomebutStudyWorkshop/blob/master/Rinstlation/Rmd07.png)    
+    * gmm-markdown.Rmdというタブが開き、資料の内容が表示されます
+    * **初めて開いた時にはPackageの不足についての警告が上部に表示されますが、ワークショップ中にインストールの手順が示されます。気にしないでください**    
+
+3. ワークショップ資料を印刷する・文書として閲覧する
+* GitHubリポジトリのworkshop02フォルダ内には、.Rmdと同じ内容のHTML, PDF文書も公開されています
+* これらは、インターネットブラウザ、PDFリーダーなどで表示し、印刷することができます
+* Rマークダウンは文章と実行可能なコードを併記することを主眼としたものです。人間が見て読みやすいものではありません
+* 必要に応じてHTML、PDFもご利用ください
+
+***
 ***
