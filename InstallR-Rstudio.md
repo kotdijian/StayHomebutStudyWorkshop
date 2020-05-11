@@ -67,6 +67,7 @@ RStudioは、Rの統合開発環境です。オープンソースです。Rの�
 
 5. R/ RStudioのインストールについては[こちら](https://qiita.com/hujuu/items/ddd66ae8e6f3f989f2c0)もご参照ください    
 6. 参考書籍等
+* [はじめての](Rhttps://amzn.to/2WGWi1C)／~~kindle版~~
 * [Rによるやさしい統計学](https://amzn.to/3dgxdkO)／[Kindle版](https://amzn.to/2W60tVG)    
 * [はじめてのRStudio](https://amzn.to/3c8pDsa)／[kindle版](https://amzn.to/3c9NIPE)    
 * [RユーザのためのRStudio［実践］入門](https://amzn.to/2L42mf6)／[Kindle版](https://amzn.to/2W9zDw5)    
